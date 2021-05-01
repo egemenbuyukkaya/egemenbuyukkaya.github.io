@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Egemen bÜYÜKKAYA"
+  name   : "Egemen Büyükkaya"
   avatar : "/assets/images/E. Büyükkaya.jpeg"
   bio    : "Undergraduate student of political science and economics at Boğaziçi University."
   links:
