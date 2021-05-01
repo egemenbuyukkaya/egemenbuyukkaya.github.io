@@ -113,7 +113,7 @@ general_boxplot <- ggplot(box_data) +
   labs(caption = "* University of Michigan was removed as an outlier with 26 courses in Introductory Statistics.")
 general_boxplot
 ```
-![Rplot05.pdf](https://github.com/egemenbuyukkaya/CSS_project/files/6372129/Rplot05.pdf)
+![Rplot05.pdf](assets/images/Rplot05.pdf)
 
 
 
