@@ -95,3 +95,5 @@ totalplot
 ```
 ![Rplot05.pdf](https://github.com/egemenbuyukkaya/egemenbuyukkaya.github.io/files/6409417/Rplot05.pdf)
 
+{% include_relative north_south.html %}
+
